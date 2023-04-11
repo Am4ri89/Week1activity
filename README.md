@@ -1,9 +1,9 @@
-# Name of your project
+# Week 1 homework assignment
 
 ## Description
-a comp....
+HTML and CSS homework assignment
 
 ## Link
 Deployed here [Link](https://am4ri89.github.io/Week1activity/)
 
-![screenshot](./assets/images/brand-awareness.png)
+![screenshot](./assets/images/screenshot.png)
