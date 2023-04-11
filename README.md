@@ -6,4 +6,4 @@ HTML and CSS homework assignment
 ## Link
 Deployed here [Link](https://am4ri89.github.io/Week1activity/)
 
-![screenshot](./assets/images/screenshot.png)
+![screenshot](./assets/images/Screenshot.png)
