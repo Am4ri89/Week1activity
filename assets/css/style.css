@@ -19,6 +19,7 @@ p {
 }
 
 /* Header Styles */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -52,6 +53,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* hero styles*/
 
 .hero {
     height: 800px;
@@ -86,6 +88,7 @@ header nav ul li {
     background-color: #0072bb;
     color: #ffffff;
 }
+ /* solutions*/
 
 .solutions img {
     max-height: 200px;
@@ -95,6 +98,8 @@ header nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* benefits*/
 
 .benefits {
     margin-right: 20px;
@@ -123,6 +128,7 @@ header nav ul li {
     max-width: 150px;
 }
 
+/* footer*/
 
 footer {
     padding: 30px;
