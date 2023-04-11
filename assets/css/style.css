@@ -80,6 +80,8 @@ header nav ul li {
     margin-left: 20px;
 }
 
+/* solutions*/
+
 .solutions {
     margin-bottom: 20px;
     padding: 50px;
@@ -88,7 +90,6 @@ header nav ul li {
     background-color: #0072bb;
     color: #ffffff;
 }
- /* solutions*/
 
 .solutions img {
     max-height: 200px;
